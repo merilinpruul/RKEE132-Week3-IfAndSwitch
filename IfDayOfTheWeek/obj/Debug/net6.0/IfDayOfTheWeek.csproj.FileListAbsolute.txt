@@ -1,0 +1,14 @@
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.AssemblyInfo.cs
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.exe
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.deps.json
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.runtimeconfig.json
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.dll
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.pdb
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.dll
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\refint\IfDayOfTheWeek.dll
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.pdb
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.genruntimeconfig.cache
+C:\Users\meril\source\repos\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\ref\IfDayOfTheWeek.dll

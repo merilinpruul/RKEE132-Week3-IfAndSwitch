@@ -1,0 +1,14 @@
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net6.0\OddOrEven.exe
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net6.0\OddOrEven.deps.json
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net6.0\OddOrEven.runtimeconfig.json
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net6.0\OddOrEven.dll
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\bin\Debug\net6.0\OddOrEven.pdb
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net6.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net6.0\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net6.0\OddOrEven.AssemblyInfo.cs
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net6.0\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net6.0\OddOrEven.dll
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net6.0\refint\OddOrEven.dll
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net6.0\OddOrEven.pdb
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net6.0\OddOrEven.genruntimeconfig.cache
+C:\Users\meril\source\repos\Week3IfAndSwitch\OddOrEven\obj\Debug\net6.0\ref\OddOrEven.dll
